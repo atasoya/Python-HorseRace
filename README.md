@@ -1,2 +1,2 @@
 # Python-HorseRace
-Random horse race game with python
+Random horse race game with python and pygame
